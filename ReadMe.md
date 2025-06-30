@@ -1,1 +1,1 @@
-Medulla NN - Model for inferring Medulla Neural Dynamics using Behavioral Keypoint Data
+Medulla NN: Inferring Medulla Neural Dynamics using Behavioral Keypoint Data
