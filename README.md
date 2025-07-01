@@ -18,7 +18,7 @@ MedullaNN takes as input sequential **kinematic keypoints** from mouse facial mo
 
 The model architecture consists of:
 
-- A **Spatio-temporal filter** that learns 
+- A **Spatio-temporal filter** that extracts and learns local motion features and interactions between behavioral keypoints.
 - A **LSTM encoder** that processes temporal keypoint trajectories and learns a rich, high-dimensional latent representation of movement.
 - A **session-specific linear decoder** that maps the latent representation to the predicted neural principal components.
 
