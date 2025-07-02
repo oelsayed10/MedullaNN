@@ -73,7 +73,7 @@ MedullaNN tackles several major challenges in systems neuroscience:
 
 ## 📂 Repository Structure
 
-MedullaNN/
+MedullaNN/ <br>
 ├── model/         # MedullaNN model  
 ├── facemap/       # Facemap model with session-specific decoder  
 ├── images/        # Model figures and outputs  
