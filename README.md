@@ -74,24 +74,20 @@ MedullaNN tackles several major challenges in systems neuroscience:
 ## 📂 Repository Structure
 
 MedullaNN/
-├── model/ # MedullaNN model
-├── facemap/ # Facemap model with session-specific decoder
-├── data/ # An example session's data
-├── figures/ # Model figures and outputs
-├── train.py # Training script
-├── evaluate.py # Evaluation metrics
-├── README.md # Project documentation
+├── model/         # MedullaNN model  
+├── facemap/       # Facemap model with session-specific decoder  
+├── images/        # Model figures and outputs  
+├── README.md      # Project documentation  
 
 ---
 
 ## 📫 Contact
 
 **Omar El Sayed**  
-PhD Candidate | BME | Boston University
-Economo & DePasquale Labs  
-GitHub: [@oelsayed10](https://github.com/oelsayed10)  
-Email: oelsayed@bu.edu  
-
+PhD Candidate | BME | Boston University <br>
+Economo & DePasquale Labs <br>
+GitHub: [@oelsayed10](https://github.com/oelsayed10) <br>
+Email: oelsayed@bu.edu <br><br>
 Feel free to reach out for collaborations, questions, or feedback!
 
 ---
